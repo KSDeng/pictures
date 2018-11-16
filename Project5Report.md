@@ -9,7 +9,7 @@
 ![](https://github.com/KSDeng/pictures/blob/master/pictures/result3.gif?raw=true)
 
 ## 2.设计思路
-本项目的主要结构如下:
+本项目的主要结构如下:  
 ![](https://github.com/KSDeng/pictures/blob/master/pictures/classes.PNG?raw=true)
 
 
