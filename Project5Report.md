@@ -1,12 +1,20 @@
-# 《高级程序设计》第五次作业 项目报告
-邓开圣 161220031
+
+
+
+
+<h1 style="text-align:center">
+    《高级程序设计》第五次作业实验报告
+</h1>
+
+<center><b></b><font size=4 >邓开圣161220031</font></b></center>
 
 ## 1.效果展示
 <div align="center">
-    <img src="https://github.com/KSDeng/pictures/blob/master/pictures/result1.gif?raw=true" width = 600 height = 400>
-    <img src="https://github.com/KSDeng/pictures/blob/master/pictures/result2.gif?raw=true" width = 600 height = 400>
-	<img src="https://github.com/KSDeng/pictures/blob/master/pictures/result3.gif?raw=true" width = 600 height = 400>
+    <img src="https://github.com/KSDeng/pictures/blob/master/pictures/result1.gif?raw=true" width = 600 height = 400><br>添加、删除、清空<br><br>
+    <img src="https://github.com/KSDeng/pictures/blob/master/pictures/result2.gif?raw=true" width = 600 height = 400><br>文件载入和保存<br><br>
+	<img src="https://github.com/KSDeng/pictures/blob/master/pictures/result3.gif?raw=true" width = 600 height = 400><br>门禁系统基本功能<br><br>
 </div>
+
 
 
 
