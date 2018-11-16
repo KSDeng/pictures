@@ -6,6 +6,7 @@
     <img src="https://github.com/KSDeng/pictures/blob/master/pictures/result1.gif?raw=true" width = 600 height = 400>
     <img src="https://github.com/KSDeng/pictures/blob/master/pictures/result2.gif?raw=true" width = 600 height = 400>
 	<img src="https://github.com/KSDeng/pictures/blob/master/pictures/result3.gif?raw=true" width = 600 height = 400>
+</div>
 
 
 
@@ -35,7 +36,7 @@
     <img src="https://github.com/KSDeng/pictures/blob/master/pictures/classStructure.PNG?raw=true" width = 400 height = 300>
 </div>
 
-  
+
 
 **这里的树结构不表示继承关系，而表示父结点对应的类的对象中拥有子节点所对应的类的对象作为对象成员。程序通过这种方式进行组织，从而实现“根节点的对象中发生某个事件时，将对象成员所对应的窗口调出”的效果，以进行进一步的操作。**   
 另外，globaluse.h和globaluse.cpp文件中定义和实现了一些需要全局使用的数据结构/函数。关于这些类和数据结构，以下将进行更为详细的介绍。
