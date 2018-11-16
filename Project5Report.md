@@ -3,10 +3,10 @@
 
 
 <h1>
-    <center>《高级程序设计》第五次作业实验报告</center>
+    <div align = "center">《高级程序设计》第五次作业实验报告</div>
 </h1>
 
-<center><font size=4 >邓开圣161220031</font></center>
+<div align = "center"><font size=4 >邓开圣161220031</font></div>
 
 ## 1.效果展示
 <div align="center">
