@@ -22,7 +22,8 @@
 
 
 这5个类均对应三个文件(.h文件、.cpp文件和.ui文件)，其功能分别是类声明、类定义和类的界面。它们之间的关系如下:  
-![](https://github.com/KSDeng/pictures/blob/master/pictures/classStructure.PNG?raw=true)
+![](https://github.com/KSDeng/pictures/blob/master/pictures/classStructure.PNG?raw=true)   
+
 **这里的树结构不表示继承关系，而表示父结点对应的类的对象中拥有子节点所对应的类的对象作为对象成员。程序通过这种方式进行组织，从而实现“根节点的对象中发生某个事件时，将对象成员所对应的窗口调出”的效果，以进行进一步的操作。**   
 另外，globaluse.h和globaluse.cpp文件中定义和实现了一些需要全局使用的数据结构/函数。关于这些类和数据结构，以下将进行更为详细的介绍。
 
