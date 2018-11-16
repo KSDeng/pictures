@@ -2,11 +2,11 @@
 
 
 
-<h1 style="text-align:center">
-    《高级程序设计》第五次作业实验报告
+<h1>
+    <center>《高级程序设计》第五次作业实验报告</center>
 </h1>
 
-<center><b></b><font size=4 >邓开圣161220031</font></b></center>
+<center><font size=4 >邓开圣161220031</font></center>
 
 ## 1.效果展示
 <div align="center">
